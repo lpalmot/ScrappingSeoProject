@@ -1,0 +1,82 @@
+,Site,Produit,Type,Prix,Commentaires
+0,Au Bureau,"Stella Artois (4,8°)",Boisson,,"Bière blonde de tradition, elle doit son goût à la qualité des malts et des houblons utilisés."
+1,Au Bureau,"Hoegaarden Blanche (4,9°)",Boisson,,"Rafraîchissante et légère grâce à son mélange unique d’écorce d’orange, de coriandre et d’épices. Servie dans son verre hexagonal givré."
+2,Au Bureau,Hoegaarden Rosée (3°),Boisson,,Bière blanche à la saveur et la couleur subtile de la framboise. Servie dans son verre hexagonal givré.
+3,Au Bureau,"Leffe Blonde (6,6°)",Boisson,,Bière aux saveurs subtiles et aux nuances douces de vanille et clous de girofle.
+4,Au Bureau,Leffe Ruby (5°),Boisson,,Bière rafraîchissante aux arômes de fruits rouges et de bois de rose.
+5,Au Bureau,"Leffe Royale Whitbread Golding (7,5°)",Boisson,,Bière blonde belge brassée avec 3 variétés de houblons aux arômes d’agrumes avec une touche de citron et de notes fleuries.
+6,Au Bureau,"Leffe Royale Cascade IPA (7,5°)",Boisson,,Bière blonde belge aux houblons des montagnes de Washington qui se caractérise par des notes d’agrumes et d’épices.
+7,Au Bureau,"Kwak (8,1°)",Boisson,,Bière belge à la saveur douce avec des notes fruitées de prune et de noix associées à des pointes de malts caramel.
+8,Au Bureau,Leffe Rituel (9°),Boisson,,Bière pleine de caractère aux notes subtiles de fruits et d’épices amères.
+10,Au Bureau,"Corona (4,5° - 35,5cl)",Boisson,,"Rafraîchissante, aux arômes de citron"
+11,Au Bureau,"Cubanisto (5,9° - 33cl)",Boisson,,Aromatisée au rhum et aux agrumes
+12,Au Bureau,Jupiler 0.0 (0° - 25cl),Boisson,,Amertume soutenue
+13,Au Bureau,Bud (5° - 33cl),Boisson,,Arômes de miel et de citron
+14,Au Bureau,Original Mojito (17cl),Boisson,,"Rhum Bacardi Carta Blanca, citron vert, sucre de canne, menthe fraîche, Perrier"
+15,Au Bureau,Mojito Royal (17cl),Boisson,,"Rhum Bacardi Carta Blanca, Champagne, citron vert, sucre de canne, menthe fraîche"
+16,Au Bureau,Fruity Mojito (17cl),Boisson,,"Rhum Bacardi Carte Blanca, citron vert, sucre de canne, menthe fraîche, Perrier, purée de framboise ou de passion ou de kiwi"
+17,Au Bureau,Cuba libre (17cl),Boisson,,"Rhum Bacardi Carta Oro, Coca-Cola, citron vert"
+18,Au Bureau,Sex on the Beach (20cl),Boisson,,"Vodka Smirnoff, Triple Sec, crème de pêche, jus d’ananas, jus de cranberry"
+19,Au Bureau,Margarita (12cl),Boisson,,"Tequila El Jimador, Triple Sec, jus de citron"
+20,Au Bureau,Apple Trendy (25cl),Boisson,,"Gin Gordon's, Manzana, jus de cranberry, sirop de cerise, sirop de caramel, cannelle"
+21,Au Bureau,Lynchburg Lemonade (17cl),Boisson,,"Whiskey Jack Daniel s n°7, Triple Sec, jus de citron, sucre de canne, limonade"
+22,Au Bureau,London Vibe (12cl),Boisson,,"Vodka Smirnoff, jus de passion, framboises, menthe, miel"
+23,Au Bureau,Bahia (15cl),Boisson,,"Whisky J&B;, Triple Sec, jus d'ananas, jus de citron, sirop de grenadine"
+24,Au Bureau,British Spritz (15cl),Boisson,,"Pimm's, limonade, orange, concombre, fruits rouges, menthe fraîche"
+25,Au Bureau,Bun's glacés Au Bureau,Dessert,,"Mini bun's briochés, crème glacée vanille amandes caramélisées, coulis chocolat, Chantilly"
+26,Au Bureau,White chocolate mousse,Dessert,,"Mousse au chocolat blanc, fruits rouges, coulis de fruits rouges, Chantilly"
+27,Au Bureau,Tiramisù Oreo®,Dessert,,
+28,Au Bureau,Lemon pie cheesecake,Dessert,,"Crème au citron, Philadelphia®, meringue à l'italienne, speculoos"
+29,Au Bureau,Mousse Toblerone®,Dessert,,"Mousse au chocolat Toblerone®, nougatine, noisettes caramélisées"
+30,Au Bureau,Moelleux au chocolat,Dessert,,"Crème glacée vanille intense, Chantilly"
+31,Au Bureau,Crêpe Au Bureau,Dessert,,"Nutella®, copeaux de chocolat, crème glacée Vanille intense, sauce chocolat, Chantilly"
+32,Au Bureau,Crêpe chocolat blanc,Dessert,,"Mousse au chocolat blanc, fruits rouges, coulis de fruits rouges, Chantilly"
+33,Au Bureau,Les crêpes,Dessert,,"Sucre, Nutella®, Ingrédient supplémentaire"
+34,Au Bureau,Café ou thé gourmand,Dessert,,Accompagné de trois mignardises
+35,Au Bureau,Coupe Au Bureau,Dessert,,"Crèmes glacées Chocolat noisette façon rocher, Vanille amandes caramélisées, Vanille intense, morceaux de brownie, sauce chocolat, Chantilly"
+36,Au Bureau,Cherry coco,Dessert,,"Sorbets cerise du verger, fruit de la passion, crème glacée noix de coco, amandes grillées, coulis de fruits rouges, Chantilly"
+37,Au Bureau,Toblerone® mania,Dessert,,"Toblerone®, crèmes glacées caramel beurre salé, vanille intense, sauce caramel, Chantilly"
+38,Au Bureau,Coupe agrumes,Dessert,,"Sorbets pamplemousse rose, citron vert, mandarine, pamplemousse frais, éclats de noisettes, Chantilly"
+39,Au Bureau,American dream,Dessert,,"Crèmes glacées vanille amandes caramélisées, caramel beurre salé, beurre de cacahuètes, amandes grillées, Chantilly"
+40,Au Bureau,Sweet lady,Dessert,,"Sorbet framboise, crème glacée Noix de coco, coulis de fruits rouges, amandes grillées, Chantilly"
+41,Au Bureau,Stracciatella,Dessert,,"Crèmes glacées stracciatella, vanille intense, chocolat noisette façon rocher, sauce chocolat, copeaux de chocolat, Mikado®, Chantilly"
+42,Au Bureau,Mozzarella sticks,Plat,,"Beignets de Mozzarella fondants, sauce BBQ"
+43,Au Bureau,Onion rings,Plat,,"Oignons frits, sauce BBQ"
+44,Au Bureau,Beignets aux calamars à la romaine,Plat,,Sauce tartare
+45,Au Bureau,Corn dog,Plat,,"Beignets de maïs, saucisse, sauce crème-moutarde"
+46,Au Bureau,Crispy chicken,Plat,,"Poulet croustillant, sauce BBQ"
+47,Au Bureau,Planche charcuteries & fromages,Plat,,Assortiment de charcuteries et fromages
+48,Au Bureau,Cheesy platter,Plat,,"Mozzarella sticks, croustillants de Camembert, spicy Cheddar potatoes, croustillants de Chèvre, frites au Cheddar"
+49,Au Bureau,Assortiment de finger food,Plat,,"Mozzarella sticks, crispy chicken, calamars à la romaine, onion rings, frites, tortillas chips"
+50,Au Bureau,Summer platter,Plat,,"Crispy chicken, onion rings, croustillants de chèvre, houmous, caviar d'aubergines, croustillant au romarin, guacamole"
+51,Au Bureau,Flammekueche gratinée,Plat,,"Lardons, oignon, fromage râpé, crème fraîche"
+52,Au Bureau,Entrecôte,Plat,,"Pièce de bœuf de 250g environ, goûteuse et persillée, sauce béarnaise"
+53,Au Bureau,Travers de porc mariné,Plat,,Travers de porc mariné à la sauce BBQ de 450g environ
+54,Au Bureau,Brochette de bœuf,Plat,,"Onglet de bœuf de 200g environ, marinade épicée, poivron, oignon"
+55,Au Bureau,Steak à cheval Au Bureau,Plat,,"Steak haché de bœuf de 150g environ, œuf au plat, galette de pommes de terre, béarnaise"
+56,Au Bureau,Mixed Grill,Plat,,"Petite brochette de poulet tandoori, travers de porc mariné sauce BBQ, petite brochette de bœuf, sauce BBQ, sauce béarnaise"
+57,Au Bureau,Carpaccio de bœuf,Plat,,"Carpaccio de bœuf de 130g environ, pesto, copeaux de Grana Padano, gressin, roquette"
+58,Au Bureau,Duo de tartare,Plat,,"Viande hachée de bœuf de 180g environ, Chèvre et chorizo, jambon Serrano et copeaux de Grana Padano"
+59,Au Bureau,Original Au Bureau burger,Plat,,"Steak haché de bœuf, poitrine fumée, Cheddar, oignon rouge, tomate, salade, sauce burger, bun's"
+60,Au Bureau,Royal potatoes,Plat,,"Steak haché de bœuf, œuf au plat, galettes de pommes de terre, Cheddar, oignon rouge, tomate, salade, sauce burger"
+61,Au Bureau,Burger Chèvre,Plat,,"Steak haché de bœuf, Chèvre, poitrine fumée, tomates confites, compotée d'oignons, tomate, salade, sauce burger, bun's"
+62,Au Bureau,Burger façon welsh,Plat,,"Steak haché de bœuf, oeuf au plat, Cheddar fondu à la bière, salade, tomate, compotée d’oignons, moutarde à l’ancienne, bun’s"
+63,Au Bureau,Burger Comté,Plat,,"Steak haché de bœuf, Comté, poitrine fumée, galette de pommes de terre, compotée d'oignons, tomate, sauce moutarde Savora®, bun's"
+64,Au Bureau,Flammekueche méditerranéenne,Plat,,"Jambon Serrano, Mozzarella di Bufala, tomate, olives noires, compotée d'oignons, moutarde à l'ancienne, Emmental râpé"
+65,Au Bureau,Flammekueche italienne,Plat,,"Mozzarella, tomates cerise, copeaux de Grana Padano, olives noires, lardons, oignons, crème fraîche, roquette"
+66,Au Bureau,Flammekueche Chèvre miel,Plat,,"Chèvre frais, miel, courgettes marinées, noix, oignons rouges, piment d'Espelette, compotée d'oignons, roquette, Emmental râpé"
+67,Au Bureau,Croque Indie,Plat,,"Poulet tandoori, tomates confites, Cheddar, crémeux Ricotta, pain de campagne gratiné au Cheddar"
+68,Au Bureau,Croque du Pub,Plat,,"Jambon blanc, champignons de Paris, béchamel au Cheddar, œuf au plat, pain de campagne gratiné au fromage"
+69,Au Bureau,Planche du pub,Plat,,"Œuf façon Bénédicte, petit filet de cabillaud frit, mini welsh, frites, sauce tartare"
+70,Au Bureau,Camembert rôti,Plat,,"Camembert entier rôti, charcuteries, pommes grenaille, salade"
+71,Au Bureau,Fish&Chips;,Plat,,"Filet de cabillaud frit, sauce tartare, frites"
+72,Au Bureau,Œufs façon Bénédicte,Plat,,"Galettes de pommes de terre, œufs pochés, poitrine fumée, sauce hollandaise, herbes fraîches, haricots verts, salade"
+73,Au Bureau,Chicken roma,Plat,,"Escalope de poulet panée, Mozzarella, sauce tomate, œuf au plat, frites, salade"
+74,Au Bureau,Welsh royal,Plat,,"Cheddar fondu à la bière, jambon blanc, pain, moutarde, œuf au plat, frites"
+75,Au Bureau,Assiette anglaise,Plat,,"Rôti de bœuf, poulet tandoori, haricots verts, salade de pommes de terre, échalotes et tomate, œuf dur, sauce béarnaise, mayonnaise"
+76,Au Bureau,Pavé de saumon,Plat,,"Haricots verts, sauce maltaise, salade"
+77,Au Bureau,Caesar crispy chicken,Plat,,"Poulet croustillant, copeaux de  Grana Padano, croûtons, romaine, sauce Caesar"
+78,Au Bureau,Queen Victoria,Plat,,"Lardons, œuf poché, croûtons, pommes de terre sautées, mesclun, vinaigrette balsamique"
+79,Au Bureau,Chèvre chaud,Plat,,"Toasts briochés de chèvre chaud, haricots verts, miel, noix, pommes grenaille, mesclun, herbes fraîches, vinaigrette balsamique"
+80,Au Bureau,Gambas agrumes,Plat,,"Gambas, saumon fumé, avocat, pamplemousse, tomates confites, fenouil, roquette, sauce agrumes"
+81,Au Bureau,Salade végétarienne,Plat,,"Falafels, houmous, pois chiches, aubergines grillées, oignons rouges, tomate, mesclun, sauce blanche"
